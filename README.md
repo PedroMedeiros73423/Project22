@@ -1,0 +1,2 @@
+# Project22
+Exercício 22 da UC: PROGRAMAÇÃO DE SOLUÇÕES COMPUTACIONAIS
